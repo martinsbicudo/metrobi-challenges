@@ -86,6 +86,7 @@ npm test
 - **File:** `challenge-6/index.html`
 - **Description:** Visualizes the Achilles and the Turtle paradox with a simple animation.
 - **How to run:** See [Viewing Animations](#viewing-animations)
+- **Extra:** You can see the distance between Achilles and the Turtle being logged in real time in your browser's console during the animation.
 
 ### Challenge 7
 
